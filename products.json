@@ -89,8 +89,8 @@
     "category_id": null,
     "type": "variant",
     "visibility": "public",
-    "products_sold": 16,
-    "stock_count": 45,
+    "products_sold": 31,
+    "stock_count": 30,
     "variants": [
       {
         "id": 1195684,
@@ -106,7 +106,7 @@
         "serial_selection_method": "random",
         "dynamic_url": null,
         "redirect_url": null,
-        "stock": 45,
+        "stock": 30,
         "instructions": null,
         "disabled_payment_method_ids": null,
         "order": 0
