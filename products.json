@@ -86,7 +86,7 @@
     "deliverables_type": "serials",
     "stock": null,
     "group_id": null,
-    "category_id": null,
+    "category_id": 16577,
     "type": "variant",
     "visibility": "public",
     "products_sold": 0,
@@ -112,8 +112,26 @@
         "order": 0
       }
     ],
-    "images": [],
+    "images": [
+      {
+        "id": 998729,
+        "cloudflare_image_id": null,
+        "created_at": "2026-07-01T21:41:15.000000Z",
+        "updated_at": "2026-07-01T21:41:15.000000Z",
+        "deleted_at": null,
+        "shop_id": 228006,
+        "url": "https://api.sellauth.com/storage/images/998729.webp",
+        "pivot": {
+          "product_id": 776643,
+          "image_id": 998729,
+          "order": 0
+        }
+      }
+    ],
     "group": null,
-    "category": null
+    "category": {
+      "id": 16577,
+      "name": "Roblox"
+    }
   }
 ]
