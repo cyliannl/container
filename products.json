@@ -114,16 +114,16 @@
     ],
     "images": [
       {
-        "id": 998729,
+        "id": 998732,
         "cloudflare_image_id": null,
-        "created_at": "2026-07-01T21:41:15.000000Z",
-        "updated_at": "2026-07-01T21:41:15.000000Z",
+        "created_at": "2026-07-01T21:43:56.000000Z",
+        "updated_at": "2026-07-01T21:43:56.000000Z",
         "deleted_at": null,
         "shop_id": 228006,
-        "url": "https://api.sellauth.com/storage/images/998729.webp",
+        "url": "https://api.sellauth.com/storage/images/998732.webp",
         "pivot": {
           "product_id": 776643,
-          "image_id": 998729,
+          "image_id": 998732,
           "order": 0
         }
       }
