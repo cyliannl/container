@@ -90,14 +90,14 @@
     "type": "variant",
     "visibility": "public",
     "products_sold": 1,
-    "stock_count": 10,
+    "stock_count": 1,
     "variants": [
       {
         "id": 1300891,
         "product_id": 776643,
         "name": "Default",
         "description": "Random fresh roblox account with semi 5l\nExample usernames:\nwls_z, d_sza, sd_sz\nIf you are not happy with the username add\u00a0@ezcyn on discord for a list of usernames for you to create your own account.",
-        "price": "0.00",
+        "price": "1.00",
         "price_slash": null,
         "quantity_min": 1,
         "quantity_max": 1,
@@ -106,7 +106,7 @@
         "serial_selection_method": "random",
         "dynamic_url": null,
         "redirect_url": null,
-        "stock": 10,
+        "stock": 1,
         "instructions": null,
         "disabled_payment_method_ids": null,
         "order": 0
